@@ -1,0 +1,48 @@
+body {
+    background-color: orange;
+}
+
+h1 {
+    font-family: 'sriracha';
+    src: url('font/Sriracha-Regular.ttf') format('ttf');
+    font-style: normal;
+    font-weight: normal;    color: white;
+    text-align: center;
+}
+
+.enlace {
+    background-color: aquamarine;
+    padding: 1%;
+}
+
+.enlaces {
+    margin-left: 1%;
+}
+
+.lista {
+    background-color: beige;
+    margin-left: 2em;
+}
+
+footer {
+    background-color: orangered;
+    text-align: center;
+}
+
+.uno {
+    border-bottom: 0.1em solid aquamarine;
+}
+
+.invisible {
+    color: orangered
+}
+
+.dos {
+    height: 3.5em;
+    font-weight: bold;
+    font-size: 0.8em;
+}
+
+.amarillo {
+    background-color: yellow;
+}

@@ -1,0 +1,86 @@
+
+body {
+    background-color: orange;
+}
+
+h1 {
+    font-family: 'sriracha';
+    src: url('font/Sriracha-Regular.ttf') format('ttf');
+    font-style: normal;
+    font-weight: normal;    color: white;
+    text-align: center;
+}
+
+.enlace {
+    background-color: aquamarine;
+    padding: 1%;
+}
+
+.enlaces {
+    margin-left: 1%;
+}
+
+.medio {
+    background-color: white;
+    float: left;
+}
+
+.steve {
+    margin-top: 1.95em;
+    height: 10em;
+    width: 10em;
+    float: left;
+}
+
+.textoimg {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-top: 1.5em solid blue;
+    border-bottom: 1.5em solid blue;
+    color: blue
+}
+
+.medio2 {
+    background-color: aquamarine;
+    float: right;
+
+}
+
+.macintosh {
+    height: 10em;
+    width: 10em;
+    float: right;
+    margin-bottom: 0.5em;
+}
+
+.texto {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-top: 1.5em solid red;
+    border-bottom: 1.5em solid red;
+    color: red
+}
+
+footer {
+    background-color: orangered;
+    text-align: center;
+}
+
+.uno {
+    border-bottom: 0.1em solid aquamarine;
+}
+
+.invisible {
+    color: orangered
+}
+
+.dos {
+    height: 3.5em;
+    font-weight: bold;
+    font-size: 0.8em;
+}
+
+.amarillo {
+    background-color: yellow;
+}
+
